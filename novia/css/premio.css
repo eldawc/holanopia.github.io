@@ -1,0 +1,9 @@
+.contenedorPremio {
+    position: relative;
+    top: 10px;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    background: white;
+    box-shadow: 1px 1px 6px 1px gray;
+}

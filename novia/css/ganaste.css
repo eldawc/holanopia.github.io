@@ -1,0 +1,40 @@
+
+.ganaste {
+    display: none;
+    z-index: 10;
+}
+
+h2 {
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    color: white;
+    font-size: 40px;
+    text-shadow: 1px 1px 9px black;
+}
+
+.p-ganaste {
+    position: absolute;
+    top: 180px;
+    left: 50px;
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px black;
+}
+
+.premio {
+    color: red;
+    font-size: 25px;
+    padding: 10px;
+    position: absolute;
+    background: black;
+    border: 3px solid red;
+    border-radius: 5px;
+    top: 300px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.premio:hover {
+    box-shadow: 1px 1px 12px 1px red;
+}

@@ -1,0 +1,207 @@
+.contenedor1 {
+    position: relative;
+    width: 225px;
+    left: 550px;
+    margin-bottom: 20px;
+    height: 600px;
+    background: white;
+    box-shadow: 1px 1px 3px 1px gray;
+    top: 20px;
+    background: url("../image/ruta2.png");
+    border: 2px solid black;
+    display: block;
+}
+
+body {
+    background: linear-gradient(to right, rgb(251, 145, 255), rgb(190, 105, 240), rgb(251, 145, 255), rgb(190, 105, 240));
+}
+
+h1 {
+    position: absolute;
+    top: 150px;
+    left: 15px;
+    z-index: -1;
+    display: block;
+}
+
+.empezarJuego {
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    background: rgb(255, 39, 39);
+    color: white;
+    font-size: 25px;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 50px;
+    display: block;
+}
+.empezarJuego:hover {
+    background: rgb(163, 4, 4);
+}
+
+.botonCorazon {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.botonCorazon2 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.botonCorazon3 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.botonCorazon4 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.botonCorazon5 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.botonCorazon6 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.botonCorazon7 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.botonCorazon8 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.botonCorazon9 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.botonCorazon10 {
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 400px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+.rapido {
+    display: none;
+    position: absolute;
+    left: 850px;
+    top: 150px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.pucca {
+    position: absolute;
+    top: 10px;
+    left: 68px;
+    transition: 0.3s;
+}
+.garu {
+    position: absolute;
+    left: 68px;
+    top: 200px;
+    transition: 0.3s;
+    
+}
+
+.corazon1 {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    display:none;
+    transition: 1s;
+
+}
+.corazon2 {
+    position: absolute;
+    top: 20px;
+    left: 70px;
+    display:none;
+    transition: 1s;
+}
+.corazon3 {
+    position: absolute;
+    top: 30px;
+    left: 120px;
+    display:none;
+    transition: 1s;
+}
+.corazon4 {
+    position: absolute;
+    top: 40px;
+    left: 170px;
+    display:none;
+    transition: 1s;
+}
+.corazon5 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    display:none;
+    transition: 1s;
+}
+
+.corazon6 {
+    position: absolute;
+    top: 60px;
+    left: 150px;
+    display:none;
+    transition: 1s;
+}
